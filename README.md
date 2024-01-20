@@ -1,2 +1,2 @@
 # Movie Reccomendation System
-Creating ML models to predict if a person shows up for his/her medical appointments.
+Creating DL models to recommend movies to the user's preference.
