@@ -11,9 +11,11 @@ The goal of this project is to develop a robust movie recommendation system that
 <b>NLP Techniques:</b> Utilizes NLP for text processing and sentiment analysis.<br>
 <h3>Data Sources</h3>
 <ul>
-<li><b>Movies Data:</b> Contains information about movies such as title, genres, and other attributes.</li>
-<li><b>Ratings Data:</b> Contains user ratings for different movies.</li>
-<li><b>Users Data:</b> Contains information about users.</li>
+<li><b>Movies Data:</b> This file contains information on ~45,000 movies featured in the Full MovieLens dataset. Features include posters, backdrops, budget, genre, revenue, release dates, languages, production countries, and companies.</li>
+<li><b>Keywords Data:</b> Contains the movie plot keywords for our MovieLens movies. Available in the form of a stringified JSON Object.</li>
+<li><b>Credits Data:</b> Consists of Cast and Crew Information for all the movies. Available in the form of a stringified JSON Object.</li>
+<li><b>Links Data:</b> This file contains the TMDB and IMDB IDs of all the movies featured in the Full MovieLens dataset.</li>
+<li><b>Ratings Data:</b> The subset of 100,000 ratings from 700 users on 9,000 movies.</li>
 </ul>
 <h3>Techniques Used</h3>
 <ol>
