@@ -15,11 +15,12 @@ The goal of this project is to develop a robust movie recommendation system that
 <li><b>Ratings Data:</b> Contains user ratings for different movies.</li>
 <li><b>Users Data:</b> Contains information about users.</li>
 </ul>
-Techniques Used
-SQL: For database management and querying.
-Excel: For data manipulation and analysis.
-Python (Jupyter Notebook): For implementing the recommendation algorithms.
-Content-Based Filtering: Recommends movies based on attributes like genre, director, etc.
-Collaborative Filtering: Uses user interaction data to find similarities between users or items.
-Hybrid Filtering: Combines both content-based and collaborative filtering.
-NLP Techniques: For text processing, feature extraction, and sentiment analysis.
+<h3>Techniques Used</h3>
+<ol>
+<li><b>SQL:</b> For database management and querying.</li>
+<li><b>Excel:</b> For data manipulation and analysis.</li>
+<li><b>Python (Jupyter Notebook):</b> For implementing the recommendation algorithms.</li>
+<li><b>Content-Based Filtering:</b> Recommends movies based on attributes like genre, director, etc.</li>
+<li><b>Collaborative Filtering:</b> Uses user interaction data to find similarities between users or items.</li>
+<li><b>Hybrid Filtering:</b> Combines both content-based and collaborative filtering.</li>
+<li><b>NLP Techniques:</b> For text processing, feature extraction, and sentiment analysis.</li>
