@@ -1,4 +1,4 @@
-<h1>Movie Recommendation Project</h1><br>
+<h1>Movie Recommendation Project</h1>
 <h3>Overview</h3>
 This project is a comprehensive movie recommendation system that utilizes multiple tools and techniques to provide accurate and personalized movie recommendations. The system employs SQL for database management, Excel for data manipulation, and Jupyter Notebook for Python programming. It implements three types of filtering methods: content-based filtering, collaborative filtering, and hybrid filtering, along with Natural Language Processing (NLP) techniques to enhance the recommendation accuracy.<br>
 <h3>Introduction</h3>
